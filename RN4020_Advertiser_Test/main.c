@@ -18,6 +18,9 @@
 // - Buad rate 9600pbs.
 // - Peripheral.
 // - No MLDP support. 
+// - Hard wake connect to VDD directly. 
+// - Soft wake connect to VDD directly.
+// - MLDP/CMD connect to GND directly.
 
 FUSES = {
 // 8MHz internal RC oscillator.

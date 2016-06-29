@@ -14,6 +14,11 @@
 #include "Device_Task.h"
 #include "var.h"
 
+// RN4020 prestting :
+// - Buad rate 9600pbs.
+// - Peripheral.
+// - No MLDP support. 
+
 FUSES = {
 // 8MHz internal RC oscillator.
 // Slow rising power.	
